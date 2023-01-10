@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jolanbrizard" target="blank"><img src="https://img.shields.io/twitter/follow/jolanbrizard?logo=twitter&style=for-the-badge" alt="jolanbrizard" /></a> </p>
 
-- 🔭 I’m currently working on [a back end server that is reusable](https://github.com/aburii/back-template)
+- 🧑‍💻 Portfolio is coming soon
+
+- 🔭 I’m currently working on [a back end server that is reusable](https://github.com/aburii/back-template) and its CLI 👀
 
 - 🌱 I’m currently learning **NestJS, VueJS**
 
