@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🤙, I'm Jolan</h1>
+<h1 align="center">Hi, I'm Jolan 🤙</h1>
 <h3 align="center">Web Developper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aburii&label=Profile%20views&color=0e75b6&style=flat" alt="aburii" /> </p>
