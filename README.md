@@ -7,9 +7,9 @@
 
 - 🧑‍💻 Portfolio is coming soon
 
-- 🔭 I’m currently working on [a back end server that is reusable](https://github.com/aburii/back-template) and its CLI 👀
+- 🔭 I’m currently working on "Zappier like" application aimed for developper uses
 
-- 🌱 I’m currently learning **NestJS, VueJS**
+- 🌱 I’m currently learning **Nuxt3, MeteorJS**
 
 - 💭 Interested in **Deno**
 
