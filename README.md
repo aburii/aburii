@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on "Zappier like" application aimed for developper uses
 
-- 🌱 I’m currently learning **Nuxt3, MeteorJS**
+- 🌱 I’m currently learning **Nuxt3 (with CompositionAPI), OpenAPI & Mobile Development**
 
 - 💭 Interested in **Deno**
 
