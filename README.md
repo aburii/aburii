@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/jolanbrizard" target="blank"><img src="https://img.shields.io/twitter/follow/jolanbrizard?logo=twitter&style=for-the-badge" alt="jolanbrizard" /></a> </p>
 
-- 🧑‍💻 Portfolio is coming soon
-
-- 🔭 I’m currently working on "Zappier like" application aimed for developper uses
-
-- 🌱 I’m currently learning **Nuxt3 (with CompositionAPI), OpenAPI & Mobile Development**
-
-- 💭 Interested in **Deno**
+- 💭 Interested in **Bun**
 
 - 📫 How to reach me **jolan.brizard@gmail.com**
 
 - 🎓 Student at Epitech
+
+- 👨‍💻 Working @Creatiwity
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aburii&amp;count_private=true&amp;show_icons=true&amp;theme=dark" alt="aburii" /></p>
