@@ -8,11 +8,3 @@
 - 👨‍💻 Working @Creatiwity
 
 - 📫 How to reach me **jolan.brizard@gmail.com**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aburii&amp;count_private=true&amp;show_icons=true&amp;theme=dark" alt="aburii" /></p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aburii&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true" alt="aburii"/>
-</p>
