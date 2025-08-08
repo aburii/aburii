@@ -1,5 +1,5 @@
-- 🎓 Master of Science @Epitech
+- 🎓 Master of Science (AI & Big Data) @Epitech
 
-- 👨‍💻 Working @Creatiwity
+- 👨‍💻 Working as a fullstack developer @ Creatiwity
 
 - 📫 How to reach me **jolan.brizard@gmail.com**
